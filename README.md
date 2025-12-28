@@ -1,6 +1,11 @@
 POLYMORPHIC CRAFTING SYSTEM
 =======================================
 
+ DEMO LINK
+---------------
+ https://nam3887.itch.io/crafting-system-demo
+ 
+ 
  CORE CONCEPT
 ---------------
 The inventory system uses polymorphism so that different kinds of game
