@@ -3,7 +3,7 @@ POLYMORPHIC CRAFTING SYSTEM
 
  DEMO LINK
 ---------------
- https://nam3887.itch.io/crafting-system-demo
+ Play the game here: [[Here](https://nam3887.itch.io/crafting-system-demo)]
  
  
  CORE CONCEPT
